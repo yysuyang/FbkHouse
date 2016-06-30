@@ -10,6 +10,7 @@ require('./views/flyBook.js');
 require('./views/message.js');
 require('./views/my.js');
 require('./views/index.js');
+require('./views/login.js');
 
 SPA.config({
   indexView: 'guide'
